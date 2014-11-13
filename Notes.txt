@@ -1,0 +1,8 @@
+
+Broker Ideas
+* Discover Index and schema
+* 
+
+Create Index
+Fields, Scoring, CORS
+
